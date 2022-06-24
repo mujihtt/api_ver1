@@ -1,0 +1,5 @@
+{
+  "PORT": 3000,
+  "SECRET": "omnifora",
+  "REFRESH_SECRET": "herbifora"
+}
